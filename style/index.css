@@ -1,0 +1,12 @@
+/* Color roperties */
+.border-red {
+    border: 1px solid red;
+}
+
+.background-blue {
+    background-color: blue;
+}
+
+.lh-10 {
+    line-height: 100px;
+}
