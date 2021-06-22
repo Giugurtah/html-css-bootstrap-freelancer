@@ -1,12 +1,24 @@
 /* Color roperties */
-.border-red {
-    border: 1px solid red;
+.ms-border-red {
+    border: 1px dashed red;
 }
 
-.background-blue {
-    background-color: blue;
+.ms-border-blue {
+    border: 1px dotted blue;
 }
-
-.lh-10 {
+/* Text properties */
+.ms-lh-10 {
     line-height: 100px;
+}
+
+.ms-text-right {
+    text-align: right;
+}
+
+.ms-h-300 {
+    height: 300px;
+}
+
+.ms-h-100 {
+    height: 100px;
 }
