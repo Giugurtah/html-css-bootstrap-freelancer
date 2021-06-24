@@ -1,10 +1,19 @@
 /* Color roperties */
+.ms-bg-primary {
+    background-color: rgb(41, 187, 156);
+}
+
 .ms-bg-secondary {
     background-color: rgb(45, 62, 79);
 }
 
-.ms-bg-primary {
-    background-color: rgb(41, 187, 156);
+.ms-bg-dark {
+    background-color: rgb(59, 84, 108);
+}
+
+
+.ms-text-primary {
+    color: rgb(41, 187, 156);
 }
 
 .text-white {
@@ -70,3 +79,9 @@
 
     background-color: white;
  }
+
+ /* Icons properties */
+ .ms-reference i {
+     width: 40px;
+     line-height: 40px;
+}
